@@ -108,6 +108,9 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
       <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
       <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/athlon1600/php-curl-client" />
+      <path value="$PROJECT_DIR$/vendor/athlon1600/php-curl-file-downloader" />
+      <path value="$PROJECT_DIR$/vendor/athlon1600/youtube-downloader" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
